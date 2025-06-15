@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/CMakeFiles/picotoolBuild
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/CMakeFiles/picotoolBuild.rule
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/CMakeFiles/picotoolBuild-complete.rule
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/src/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
