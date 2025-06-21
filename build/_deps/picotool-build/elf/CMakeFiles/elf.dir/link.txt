@@ -1,2 +1,0 @@
-C:/MinGW/bin/ar.exe qc libelf.a CMakeFiles/elf.dir/elf_file.cpp.obj
-C:/MinGW/bin/ranlib.exe libelf.a

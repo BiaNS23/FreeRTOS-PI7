@@ -1,2 +1,5 @@
-build
 .cache
+/.vscode/
+/arm-gnu-toolchain-14.2.rel1-mingw-w64-i686-arm-none-eabi/
+/build/
+/pico-sdk/

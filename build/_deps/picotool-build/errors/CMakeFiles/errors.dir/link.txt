@@ -1,2 +1,0 @@
-C:/MinGW/bin/ar.exe qc liberrors.a CMakeFiles/errors.dir/errors.cpp.obj
-C:/MinGW/bin/ranlib.exe liberrors.a
