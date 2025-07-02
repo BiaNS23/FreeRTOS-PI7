@@ -1,5 +1,6 @@
 # add_executable(${ProjectName}
-add_executable(picow-freertos-smp
+set(ProjectName "picow-freertos-smp")
+add_executable(${ProjectName}
     main.c
     modbus_slave.c
 )
@@ -13,9 +14,13 @@ target_link_libraries(${ProjectName}
     pico_multicore
     pico_cyw43_arch_lwip_sys_freertos
     FreeRTOS-Kernel-Heap4 
+    hardware_uart   # para comunicação UART
+    hardware_irq    # para interrupções da UART
+    pico_sync       # para Semaphores/Mutexes
+    pico_time       # para funções de tempo
     )
     
-pico_enable_stdio_usb(${ProjectName} 1)
-pico_enable_stdio_uart(${ProjectName} 0)
+pico_enable_stdio_usb(${ProjectName} 1) # printf via USB (para depuração)
+pico_enable_stdio_uart(${ProjectName} 0) # Desabilita printf via UART (para não conflitar com Modbus)
     
 pico_add_extra_outputs(${ProjectName})

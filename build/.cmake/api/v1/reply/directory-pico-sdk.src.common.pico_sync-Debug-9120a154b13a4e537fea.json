@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/common/pico_sync",
+		"source" : "C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/pico-sdk/src/common/pico_sync"
+	}
+}

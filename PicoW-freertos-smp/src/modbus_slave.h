@@ -8,7 +8,7 @@
 
 // --- Configurações Modbus ---
 #define MODBUS_SLAVE_ID 1 // ID do seu dispositivo Modbus Slave (PC Master usa este ID)
-#define MODBUS_BAUD_RATE 9600
+#define MODBUS_BAUD_RATE 115200
 #define MODBUS_UART_ID uart0 // Qual UART usar (uart0 ou uart1)
 #define MODBUS_UART_TX_PIN 0 // Pino GPIO para UART TX
 #define MODBUS_UART_RX_PIN 1 // Pino GPIO para UART RX

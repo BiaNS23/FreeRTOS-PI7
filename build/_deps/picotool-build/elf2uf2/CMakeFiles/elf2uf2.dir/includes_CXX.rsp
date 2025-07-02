@@ -1,0 +1,1 @@
+-I"C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/_deps/picotool-src/elf2uf2" -I"C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/_deps/picotool-src/elf" -I"C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/build/_deps/picotool-src/errors" -isystem "C:/Users/nsilv/OneDrive/Documentos/USP/FreeRTOS/pico-sdk/src/common/boot_uf2_headers/include"
